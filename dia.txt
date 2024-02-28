@@ -5,3 +5,4 @@ jueves
 viernes
 sabado 
 domingo
+(dias de la week)
